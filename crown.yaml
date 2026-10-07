@@ -1,0 +1,16 @@
+# 这是一个 Classical 类型的自定义规则集合文件
+payload:
+  # ================= (IP-CIDR) =================
+  - IP-CIDR,64.188.47.32/32
+  - IP-CIDR,43.229.3.127/32
+
+  # ================= 域名关键字匹配 (domain_keyword) =================
+  - DOMAIN-KEYWORD,mos022
+  - DOMAIN-KEYWORD,hga0
+  - DOMAIN-KEYWORD,godaddy
+  - DOMAIN-KEYWORD,sectigo
+  - DOMAIN-KEYWORD,niab12345
+  - DOMAIN-KEYWORD,ry00000
+  - DOMAIN-KEYWORD,hgapp0003
+  - DOMAIN-KEYWORD,cdn001
+  - DOMAIN-KEYWORD,crw0
