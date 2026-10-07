@@ -1,0 +1,28 @@
+# 这是一个 Classical 类型的自定义规则集合文件
+payload:
+  # ================= 进程名匹配 (process_name) =================
+  - PROCESS-NAME,BitBrowser.exe
+  - PROCESS-NAME,Winner.exe
+  - PROCESS-NAME,比特浏览器.exe
+
+  # ================= 安卓包名匹配 (package_name) =================
+  - PROCESS-NAME,com.bitget.exchange
+  - PROCESS-NAME,com.transferwise.android
+  - PROCESS-NAME,com.bybit.app
+  - PROCESS-NAME,com.binance.dev
+
+  # ================= 域名关键字匹配 (domain_keyword) =================
+  - DOMAIN-KEYWORD,oracle
+  - DOMAIN-KEYWORD,amazon
+  - DOMAIN-KEYWORD,aws
+  - DOMAIN-KEYWORD,microsoft
+  - DOMAIN-KEYWORD,iwon
+  - DOMAIN-KEYWORD,phoile
+  - DOMAIN-KEYWORD,mervani
+  - DOMAIN-KEYWORD,alipay
+  - DOMAIN-KEYWORD,vip
+  - DOMAIN-KEYWORD,apple
+  - DOMAIN-KEYWORD,bybit
+  - DOMAIN-KEYWORD,tianxingip
+  - DOMAIN-KEYWORD,icloud
+  - DOMAIN-KEYWORD,sf-express
