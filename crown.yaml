@@ -5,7 +5,7 @@ payload:
   - IP-CIDR,43.229.3.127/32
 
   # ================= 域名关键字匹配 (domain_keyword) =================
-  - DOMAIN-KEYWORD,mos022
+  - DOMAIN-KEYWORD,mos0
   - DOMAIN-KEYWORD,hga0
   - DOMAIN-KEYWORD,godaddy
   - DOMAIN-KEYWORD,sectigo
