@@ -1,0 +1,9 @@
+# 这是一个 Classical 类型的自定义规则集合文件
+payload:
+  # ================= 域名关键字匹配 (domain_keyword) =================
+  - DOMAIN-KEYWORD,iwon
+  - DOMAIN-KEYWORD,phoile
+  - DOMAIN-KEYWORD,mervani
+  - DOMAIN-KEYWORD,ps3838
+  - DOMAIN-KEYWORD,pinnacle888
+  - DOMAIN-KEYWORD,pin1
