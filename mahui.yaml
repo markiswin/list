@@ -3,4 +3,3 @@ payload:
   # ================= 域名关键字匹配 (domain_keyword) =================
   - DOMAIN-KEYWORD,hkjc
   - DOMAIN-KEYWORD,gvt3
-  - DOMAIN-KEYWORD,gstatic
