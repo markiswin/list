@@ -2,6 +2,10 @@
 payload:
   # ================= 进程名匹配 (process_name) =================
   - PROCESS-NAME,Winner.exe
+  - PROCESS-NAME,QQ.exe
+  - PROCESS-NAME,Weixin.exe
+  - PROCESS-NAME,XTerminal.exe
+
 
   # ================= 安卓包名匹配 (package_name) =================
   - PROCESS-NAME,com.bitget.exchange
