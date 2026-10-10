@@ -6,9 +6,6 @@ payload:
   - PROCESS-NAME,Weixin.exe
   - PROCESS-NAME,XTerminal.exe
 
-  # ================= (IP-CIDR) =================
-  - IP-CIDR,43.153.191.158/32
-
   # ================= 安卓包名匹配 (package_name) =================
   - PROCESS-NAME,com.bitget.exchange
   - PROCESS-NAME,com.transferwise.android
