@@ -1,0 +1,7 @@
+# 这是一个 Classical 类型的自定义规则集合文件
+payload:
+  # ================= 域名关键字匹配 (domain_keyword) =================
+  - DOMAIN-KEYWORD,facebook
+  - DOMAIN-KEYWORD,aura
+  - DOMAIN-KEYWORD,meta
+  - DOMAIN-KEYWORD,muse
