@@ -5,6 +5,7 @@ payload:
   - PROCESS-NAME,QQ.exe
   - PROCESS-NAME,Weixin.exe
   - PROCESS-NAME,XTerminal.exe
+  - PROCESS-NAME,AdsPower Global.exe
 
   # ================= 安卓包名匹配 (package_name) =================
   - PROCESS-NAME,com.bitget.exchange
