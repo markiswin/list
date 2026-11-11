@@ -25,4 +25,7 @@ payload:
   - DOMAIN-KEYWORD,tianxingip
   - DOMAIN-KEYWORD,icloud
   - DOMAIN-KEYWORD,sf-express
-  - DOMAIN-KEYWORD,taobao
+
+  # ================= 域名匹配 (domain_keyword) =================
+  - DOMAIN-SUFFIX,taobao.com
+  - DOMAIN-SUFFIX,qq.com
